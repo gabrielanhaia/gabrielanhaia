@@ -6,3 +6,4 @@
 
 Passionate, self-motivated backend developer. Experienced in fast-growing environments, including startups, big companies, and freelance projects. Author of a book and a tech blog. Committed to continuous improvement and learning. Values authenticity, personal growth, and helping others. Interests include web applications, software architecture, good practices, entrepreneurship, storytelling, and content production.
 
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielanhaia&show_icons=true&theme=transparent)
