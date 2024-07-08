@@ -5,3 +5,8 @@
 ### Hi there 👋
 
 Passionate, self-motivated backend developer. Experienced in fast-growing environments, including startups, big companies, and freelance projects. Author of a book and a tech blog. Committed to continuous improvement and learning. Values authenticity, personal growth, and helping others. Interests include web applications, software architecture, good practices, entrepreneurship, storytelling, and content production.
+
+### Personal Projects ongoing
+
+1. Symfony Request Validator (Based on Laravel Requests)
+2. MDC Logger for PHP
