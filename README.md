@@ -1,12 +1,45 @@
-[![Linkedin Badge](https://img.shields.io/badge/-gabrielanhaia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielanhaia/)](https://www.linkedin.com/in/gabrielanhaia/) 
-[![Medium Badge](https://img.shields.io/badge/-@devwarlocks-devwarlocks?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/devwarlocks/)](https://medium.com/devwarlocks/)
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielanhaia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielanhaia/)](https://www.linkedin.com/in/gabrielanhaia/)
+[![Medium Badge](https://img.shields.io/badge/-@devwarlocks-000000?style=flat-square&logo=Medium&link=https://medium.com/devwarlocks/)](https://medium.com/devwarlocks/)
 [![Gmail Badge](https://img.shields.io/badge/-ga.contact.me@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ga.contact.me@gmail.com)](mailto:ga.contact.me@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&link=https://buymeacoffee.com/anhaia)](https://buymeacoffee.com/anhaia)
 
-### Hi there 👋
+## Hey, I'm Gabriel Anhaia
 
-Passionate, self-motivated backend developer. Experienced in fast-growing environments, including startups, big companies, and freelance projects. Author of a book and a tech blog. Committed to continuous improvement and learning. Values authenticity, personal growth, and helping others. Interests include web applications, software architecture, good practices, entrepreneurship, storytelling, and content production.
+Software engineer, author, and open-source enthusiast based in Germany (originally from Brazil). I work across backend systems, distributed architectures, and increasingly with AI. Currently building things at **Monta GmbH** and writing at **Dev Warlocks**.
 
-### Personal Projects ongoing
+I care about clean architecture, design patterns, developer education, and shipping things that matter.
 
-1. Symfony Request Validator (Based on Laravel Requests)
-2. MDC Logger for PHP
+---
+
+### Books
+
+| | |
+|---|---|
+| **The Complete Guide to Go Programming** | From Basics to Advanced Concurrency. A hands-on book covering Go fundamentals, concurrency patterns, and real-world application design. [Get it on Amazon](https://amzn.eu/d/08Zf48Rt) |
+| **Design Patterns com PHP 7** | A practical guide to implementing creational, structural, and behavioral design patterns in PHP. [Get it on Casa do Codigo](https://www.casadocodigo.com.br/products/livro-design-paterns-php) |
+
+---
+
+### Projects
+
+- **[Neural Playground](https://neural-playground.eu/)** - Learn AI through play. An interactive platform for understanding artificial intelligence concepts hands-on.
+- **[php-design-patterns](https://github.com/gabrielanhaia/php-design-patterns)** - Step-by-step Design Patterns in PHP 8+ with articles and examples (300+ stars).
+- **[laravel-circuit-breaker](https://github.com/gabrielanhaia/laravel-circuit-breaker)** - Circuit Breaker implementation for Laravel projects.
+- **[php-circuit-breaker](https://github.com/gabrielanhaia/php-circuit-breaker)** - Framework-agnostic Circuit Breaker for PHP.
+
+Plus [60+ more repositories](https://github.com/gabrielanhaia?tab=repositories) covering PHP, Go, JavaScript, and more.
+
+---
+
+### What I'm into lately
+
+- Building AI-powered tools and exploring LLM integrations
+- Writing about software architecture and backend engineering
+- Open-source development and developer education
+- Go, PHP, distributed systems, and clean code
+
+---
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielanhaia&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Gabriel's GitHub stats" />
