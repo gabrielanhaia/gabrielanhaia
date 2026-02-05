@@ -38,3 +38,10 @@ Plus [60+ more repositories](https://github.com/gabrielanhaia?tab=repositories) 
 - Open-source development and developer education
 - Go, PHP, distributed systems, and clean code
 
+---
+
+### Stats
+
+<img src="https://streak-stats.demolab.com/?user=gabrielanhaia&hide_border=true" alt="GitHub Streak Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielanhaia&theme=default" alt="GitHub Profile Summary" />
