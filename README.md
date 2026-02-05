@@ -38,8 +38,3 @@ Plus [60+ more repositories](https://github.com/gabrielanhaia?tab=repositories) 
 - Open-source development and developer education
 - Go, PHP, distributed systems, and clean code
 
----
-
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielanhaia&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Gabriel's GitHub stats" />
