@@ -42,6 +42,6 @@ Plus [60+ more repositories](https://github.com/gabrielanhaia?tab=repositories) 
 
 ### Stats
 
-<img src="https://streak-stats.demolab.com/?user=gabrielanhaia&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielanhaia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielanhaia&theme=default" alt="GitHub Profile Summary" />
