@@ -22,6 +22,7 @@ I care about clean architecture, design patterns, developer education, and shipp
 
 ### Projects
 
+- **[Hermes IDE - AI Powered Shell](https://hermes-ide.com)** - Hermes wraps your existing shell — zsh, bash, fish — and adds ghost-text completions, autonomous task execution, full git management, project-wide search, and a built-in process manager. 100% free.
 - **[Neural Playground](https://neural-playground.eu/)** - Learn AI through play. An interactive platform for understanding artificial intelligence concepts hands-on.
 - **[php-design-patterns](https://github.com/gabrielanhaia/php-design-patterns)** - Step-by-step Design Patterns in PHP 8+ with articles and examples (300+ stars).
 - **[laravel-circuit-breaker](https://github.com/gabrielanhaia/laravel-circuit-breaker)** - Circuit Breaker implementation for Laravel projects.
