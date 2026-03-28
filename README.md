@@ -17,6 +17,7 @@ I care about clean architecture, design patterns, developer education, and shipp
 |---|---|
 | **The Complete Guide to Go Programming** | From Basics to Advanced Concurrency. A hands-on book covering Go fundamentals, concurrency patterns, and real-world application design. [Get it on Amazon](https://amzn.eu/d/08Zf48Rt) |
 | **Design Patterns com PHP 7** | A practical guide to implementing creational, structural, and behavioral design patterns in PHP. [Get it on Casa do Codigo](https://www.casadocodigo.com.br/products/livro-design-paterns-php) |
+| **From Brazil to Berlin / Do Brasil para Berlim** | A Software Developer's Guide to Landing a Tech Job in Europe. [Get it on Amazon (English)](https://www.amazon.com/dp/B0GHYV5FN1) \| [Get it on Amazon (Portuguese)](https://www.amazon.com.br/dp/B0GGY9Z783) |
 
 ---
 
